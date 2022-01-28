@@ -1,0 +1,14 @@
+div{
+	display: flex;
+	justify-content: center;
+	margin-top: 35vh;
+}
+h1{
+	transition: 2s;
+	font-family: arial;
+	font-size: 5rem;
+}
+h1:hover{
+	color: blue;
+	transition: 2s;
+}
